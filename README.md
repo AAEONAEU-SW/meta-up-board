@@ -1,8 +1,5 @@
-Yocto BSP meta layer for the UP Xtreme
+Yocto BSP meta layer for the UP Series
 ======================================
-**Note: This branch warrior-dev for Yocto 'warrior' is for development purposes
-only. Please refer to 'warrior' branch in this repository for non-experimental
-purposes.**
 
 This README file contains information on building the meta-up-board BSP
 layer.  Please see the corresponding sections below for details.
